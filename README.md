@@ -1,4 +1,4 @@
-### Hi there 👋
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={rokaf6444})](https://solved.ac/{rokaf6444})
 
 <!--
 **rokaf6444/rokaf6444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
