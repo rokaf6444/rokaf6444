@@ -2,7 +2,7 @@
 - I'm majoring in computer engineering at Hansung University.
 
 ## Status about me
-![My github stats](https://github-readme-stats.vercel.app/api?username=rokaf6444&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=rokaf6444&show_icons=true&theme=dracula)
 
 ## Contacts
 - Email: dino1106@naver.com
