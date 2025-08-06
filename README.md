@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I majored in computer engineering at Hansung University.
+- I'm majoring in computer engineering at Hansung University.
 
 ## Status about me
 ![My github stats](https://github-readme-stats.vercel.app/api?username=rokaf6444&show_icons=true&theme=dark)
